@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "872416814044",
+    "firebase_url": "https://buzzmatechat-default-rtdb.firebaseio.com",
+    "project_id": "buzzmatechat",
+    "storage_bucket": "buzzmatechat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872416814044:android:d305e2520a0ab4f5a3a519",
+        "android_client_info": {
+          "package_name": "com.aravindprojects.buzzmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872416814044-pitra2aal9o5n7uitrj6f87ogjm3mmer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHa4RDGtjS1D1S4MB1225DyAPFEZifsXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872416814044-pitra2aal9o5n7uitrj6f87ogjm3mmer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
